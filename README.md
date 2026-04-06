@@ -6,7 +6,7 @@
 
 
 ## Overview
-This repository contains a modular, real-time perception and kinematics pipeline built from scratch in ROS 2 Jazzy using C++. It demonstrates the ability to capture raw hardware sensor data, process it using classical computer vision techniques, and translate that spatial data into physical actuation commands via closed-loop proportional control.
+This repository contains a modular, real-time perception and kinematics pipeline built in ROS 2 Jazzy using C++. It demonstrates the ability to capture raw hardware sensor data, process it using classical computer vision techniques, and translate that spatial data into physical actuation commands via closed-loop proportional control.
 
 This project was built to showcase a highly modular publisher/subscriber architecture, keeping the vision algorithms completely agnostic to the underlying hardware kinematics.
 
