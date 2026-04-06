@@ -4,7 +4,6 @@
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv)
 
-*[Insert your GIF or Screen Recording here: e.g., `![Demo](docs/tracking_demo.gif)` showing the live camera feed and Turtlesim moving]*
 
 ## Overview
 This repository contains a modular, real-time perception and kinematics pipeline built from scratch in ROS 2 Jazzy using C++. It demonstrates the ability to capture raw hardware sensor data, process it using classical computer vision techniques, and translate that spatial data into physical actuation commands via closed-loop proportional control.
